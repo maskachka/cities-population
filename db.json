@@ -1,8 +1,12 @@
 {
-  "id": "uk",
-  "populationByCity": [
-    {"London": 3000000},
-    {"Oxford": 5000},
-    {"Dover": 1000}
+  "country": [
+    {
+      "id": "uk",
+      "populationByCity": [
+        {"London": 3000000},
+        {"Oxford": 5000},
+        {"Dover": 1000}
+      ]
+    }
   ]
 }
